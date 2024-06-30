@@ -2,7 +2,11 @@
 
 An autonomous agent created using [Langchain](https://www.langchain.com/) to automate your code review workflow for [smartlead](https://smartlead.ai/) campaigns
 
-### [Read the blog!](https://www.ionio.ai/blog/how-to-create-an-ai-agent-to-manage-your-email-inbox-and-reply-to-your-cold-email-code-included)
+## Read the blog 👇
+
+### [Blog Part 1](https://www.ionio.ai/blog/how-to-create-an-ai-agent-to-manage-your-email-inbox-and-reply-to-your-cold-email-code-included)
+
+### [Blog Part 2](https://www.ionio.ai/blog/how-to-create-an-ai-agent-to-manage-your-email-inbox-and-reply-to-your-cold-email-code-included-part-2)
 
 ## 🤔 How it works?
 
@@ -24,7 +28,7 @@ The agent will apply semantic search on your past email and replies and will gen
 
 ## ⚒️ Architecture
 
-![](https://assets-global.website-files.com/62528d398a42420e66390ef9/660a939de4d61c5b8ee00335_image1.png)
+![image](https://github.com/Ionio-io/AI-agent-for-cold-emails/assets/70281451/63159a2f-931c-4646-a1ef-4863b163fc9e)
 
 ## 🚀 Getting started
 
